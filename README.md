@@ -1,7 +1,6 @@
 # Smyck Color Scheme
 
-This is a color scheme suitable for Terminal.app, iTerm2, Vim, gVim,
-MacVim, Textmate and Sublime Text 2.
+This is a color scheme suitable for Sublime Text 3.
 
 The colors are carefully chosen and the contrasts are tuned so that it
 should not hurt the eyes even after a whole day of working.
@@ -13,6 +12,12 @@ should not hurt the eyes even after a whole day of working.
 ![Screenshot 2](http://smyck.org/smyck/color_2.jpg)
 
 ![Screenshot 4](http://smyck.org/smyck/color_4.jpg)
+
+##Install in Sublime Text 3
+
+Copy Smyck Color Scheme.sublime-package into into the *Packages* folder of Sublime Text 3
+and add the following line to your Preferences.sublime-settings:
+	"color_scheme": "Packages/Smyck Color Scheme/hukl.tmTheme"
 
 # Disclaimer
 
