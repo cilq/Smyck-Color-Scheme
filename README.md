@@ -17,7 +17,7 @@ should not hurt the eyes even after a whole day of working.
 
 Copy Smyck Color Scheme.sublime-package into into the *Packages* folder of Sublime Text 3
 and add the following line to your Preferences.sublime-settings:
-	"color_scheme": "Packages/Smyck Color Scheme/hukl.tmTheme"
+	"color_scheme": "Packages/Smyck Color Scheme/Smyck.tmTheme"
 
 # Disclaimer
 
